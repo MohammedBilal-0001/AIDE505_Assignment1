@@ -1,0 +1,23 @@
+{
+  "name": "assi1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "assignment",
+    "1"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "Building a Machine Learning API with Flask and Integrating it with an Express.js Application",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "flask": "^0.2.10",
+    "g": "^2.0.1",
+    "nodemon": "^3.1.9"
+  }
+}
