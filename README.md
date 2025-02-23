@@ -2,7 +2,7 @@ this is a readme file
 the project is a sentiment analysis project
 main files are:
 1. python/flaskServer.py
-2. python/front.py
+2. streamlit/front.py
 3. Express.js
 
 
